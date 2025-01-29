@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\OneDrive\\Desktop\\List program cs\\List program.csproj",
+      "projectUniqueName": "C:\\Users\\David\\OneDrive\\Desktop\\ApPrClTh-C#-List-Keeper\\List program.csproj",
       "projectName": "List program",
-      "projectPath": "C:\\Users\\David\\OneDrive\\Desktop\\List program cs\\List program.csproj",
+      "projectPath": "C:\\Users\\David\\OneDrive\\Desktop\\ApPrClTh-C#-List-Keeper\\List program.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\OneDrive\\Desktop\\List program cs\\obj\\",
+      "outputPath": "C:\\Users\\David\\OneDrive\\Desktop\\ApPrClTh-C#-List-Keeper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"

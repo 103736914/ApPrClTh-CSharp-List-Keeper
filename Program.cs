@@ -23,6 +23,7 @@ while (userCommand != "exit")
     if (userCommand == "")
     {
         Console.WriteLine("A command must be entered.");
+        returnValue = "success";
     }
     //Procede with program if userCommand is not empty
     else
@@ -69,6 +70,8 @@ while (userCommand != "exit")
     {
         Console.WriteLine("An error may just have occured.");
     }
+    // Reset check
+    returnValue = "";
 }
 
 // Called in response to the user "help" command; 

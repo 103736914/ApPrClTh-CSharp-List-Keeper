@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = List_program
-build_property.ProjectDir = c:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\
+build_property.ProjectDir = C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

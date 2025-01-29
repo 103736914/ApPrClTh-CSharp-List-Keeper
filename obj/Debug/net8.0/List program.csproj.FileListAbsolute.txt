@@ -12,3 +12,18 @@ C:\Users\David\OneDrive\Desktop\List program cs\obj\Debug\net8.0\refint\List pro
 C:\Users\David\OneDrive\Desktop\List program cs\obj\Debug\net8.0\List program.pdb
 C:\Users\David\OneDrive\Desktop\List program cs\obj\Debug\net8.0\List program.genruntimeconfig.cache
 C:\Users\David\OneDrive\Desktop\List program cs\obj\Debug\net8.0\ref\List program.dll
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\bin\Debug\net8.0\List program.exe
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\bin\Debug\net8.0\List program.deps.json
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\bin\Debug\net8.0\List program.runtimeconfig.json
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\bin\Debug\net8.0\List program.dll
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\bin\Debug\net8.0\List program.pdb
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.AssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.sourcelink.json
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.dll
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\refint\List program.dll
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.pdb
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\List program.genruntimeconfig.cache
+C:\Users\David\OneDrive\Desktop\ApPrClTh-C#-List-Keeper\obj\Debug\net8.0\ref\List program.dll
